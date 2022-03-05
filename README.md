@@ -1,1 +1,1 @@
-A sample CRUD rest made with node and express
+A simple CRUD rest made with node and express.
